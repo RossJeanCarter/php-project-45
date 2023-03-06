@@ -1,0 +1,19 @@
+{
+    "name": "hexlet/code",
+    "description": "brain-games",
+    "bin": [
+        "bin/brain-games"
+      ],
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ross Carter",
+            "email": "indovinachi99@gmail.com"
+        }
+    ],
+    "require": {}
+}
